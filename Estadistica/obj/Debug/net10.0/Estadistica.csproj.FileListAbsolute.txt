@@ -1,0 +1,15 @@
+C:\Users\gonza\source\repos\Estadistica\bin\Debug\net10.0\Estadistica.exe
+C:\Users\gonza\source\repos\Estadistica\bin\Debug\net10.0\Estadistica.deps.json
+C:\Users\gonza\source\repos\Estadistica\bin\Debug\net10.0\Estadistica.runtimeconfig.json
+C:\Users\gonza\source\repos\Estadistica\bin\Debug\net10.0\Estadistica.dll
+C:\Users\gonza\source\repos\Estadistica\bin\Debug\net10.0\Estadistica.pdb
+C:\Users\gonza\source\repos\Estadistica\obj\Debug\net10.0\Estadistica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\Estadistica\obj\Debug\net10.0\Estadistica.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\Estadistica\obj\Debug\net10.0\Estadistica.AssemblyInfo.cs
+C:\Users\gonza\source\repos\Estadistica\obj\Debug\net10.0\Estadistica.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Estadistica\obj\Debug\net10.0\Estadistica.dll
+C:\Users\gonza\source\repos\Estadistica\obj\Debug\net10.0\refint\Estadistica.dll
+C:\Users\gonza\source\repos\Estadistica\obj\Debug\net10.0\Estadistica.pdb
+C:\Users\gonza\source\repos\Estadistica\obj\Debug\net10.0\Estadistica.genruntimeconfig.cache
+C:\Users\gonza\source\repos\Estadistica\obj\Debug\net10.0\ref\Estadistica.dll
+C:\Users\gonza\source\repos\Estadistica\obj\Debug\net10.0\Estadist.19FC030A.Up2Date

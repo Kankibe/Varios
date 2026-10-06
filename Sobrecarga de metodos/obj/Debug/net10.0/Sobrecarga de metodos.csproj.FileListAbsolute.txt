@@ -1,0 +1,15 @@
+C:\Users\gonza\source\repos\Sobrecarga de metodos\bin\Debug\net10.0\Sobrecarga de metodos.exe
+C:\Users\gonza\source\repos\Sobrecarga de metodos\bin\Debug\net10.0\Sobrecarga de metodos.deps.json
+C:\Users\gonza\source\repos\Sobrecarga de metodos\bin\Debug\net10.0\Sobrecarga de metodos.runtimeconfig.json
+C:\Users\gonza\source\repos\Sobrecarga de metodos\bin\Debug\net10.0\Sobrecarga de metodos.dll
+C:\Users\gonza\source\repos\Sobrecarga de metodos\bin\Debug\net10.0\Sobrecarga de metodos.pdb
+C:\Users\gonza\source\repos\Sobrecarga de metodos\obj\Debug\net10.0\Sobrecarga de metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\Sobrecarga de metodos\obj\Debug\net10.0\Sobrecarga de metodos.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\Sobrecarga de metodos\obj\Debug\net10.0\Sobrecarga de metodos.AssemblyInfo.cs
+C:\Users\gonza\source\repos\Sobrecarga de metodos\obj\Debug\net10.0\Sobrecarga de metodos.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Sobrecarga de metodos\obj\Debug\net10.0\Sobrecarga de metodos.dll
+C:\Users\gonza\source\repos\Sobrecarga de metodos\obj\Debug\net10.0\refint\Sobrecarga de metodos.dll
+C:\Users\gonza\source\repos\Sobrecarga de metodos\obj\Debug\net10.0\Sobrecarga de metodos.pdb
+C:\Users\gonza\source\repos\Sobrecarga de metodos\obj\Debug\net10.0\Sobrecarga de metodos.genruntimeconfig.cache
+C:\Users\gonza\source\repos\Sobrecarga de metodos\obj\Debug\net10.0\ref\Sobrecarga de metodos.dll
+C:\Users\gonza\source\repos\Sobrecarga de metodos\obj\Debug\net10.0\Sobrecar.1EAB4A69.Up2Date

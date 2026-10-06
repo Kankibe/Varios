@@ -1,0 +1,15 @@
+C:\Users\gonza\source\repos\Factorial\bin\Debug\net10.0\Factorial.exe
+C:\Users\gonza\source\repos\Factorial\bin\Debug\net10.0\Factorial.deps.json
+C:\Users\gonza\source\repos\Factorial\bin\Debug\net10.0\Factorial.runtimeconfig.json
+C:\Users\gonza\source\repos\Factorial\bin\Debug\net10.0\Factorial.dll
+C:\Users\gonza\source\repos\Factorial\bin\Debug\net10.0\Factorial.pdb
+C:\Users\gonza\source\repos\Factorial\obj\Debug\net10.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfo.cs
+C:\Users\gonza\source\repos\Factorial\obj\Debug\net10.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Factorial\obj\Debug\net10.0\Factorial.dll
+C:\Users\gonza\source\repos\Factorial\obj\Debug\net10.0\refint\Factorial.dll
+C:\Users\gonza\source\repos\Factorial\obj\Debug\net10.0\Factorial.pdb
+C:\Users\gonza\source\repos\Factorial\obj\Debug\net10.0\Factorial.genruntimeconfig.cache
+C:\Users\gonza\source\repos\Factorial\obj\Debug\net10.0\ref\Factorial.dll
+C:\Users\gonza\source\repos\Factorial\obj\Debug\net10.0\Factorial.csproj.Up2Date
