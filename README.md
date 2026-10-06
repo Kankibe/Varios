@@ -1,4 +1,4 @@
-# Laboratorio de Temas Varios: Repaso del CRUD
+# Laboratorio de Temas Varios
 
 **Universidad Tecnológica de Panamá**
 
@@ -18,7 +18,7 @@ Facultad de Ingeniería en Sistemas Computacionales – Campus Víctor Levis Sas
 
 ## Descripción
 
-Laboratorio con cinco problemas que repasan el CRUD, la seguridad en bases de datos (inyección SQL y consultas parametrizadas), la programación orientada a objetos con métodos sobrecargados, la recursividad y el análisis de frecuencias en C#.
+Laboratorio sobre la seguridad en bases de datos (inyección SQL y consultas parametrizadas), la programación orientada a objetos con métodos sobrecargados, la recursividad y el análisis de frecuencias en C#.
 
 ## Versiones de tecnologías
 
