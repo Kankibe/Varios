@@ -10,6 +10,8 @@ Facultad de Ingeniería en Sistemas Computacionales – Campus Víctor Levis Sas
 
 **Grupo:** 1IL133 – II Semestre 2026
 
+**Fecha: ** 10/11/2026
+
 **Módulo IV:** Acceso a Base de Datos – Aplicaciones en Capas
 
 **Estudiante:** Kankibe Gonzalez – Cédula: 10-716-96
